@@ -1,9 +1,14 @@
 body {
-  
+   background-color: rgb(175, 175, 175);
     text-align: center;
 }
 
 .imagenes {
    display: flex;
-   justify-content: space-around;
+   justify-content: space-between;
+   margin-right: 30px;
+}
+
+.textos{
+    
 }
